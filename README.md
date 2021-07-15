@@ -1,8 +1,3 @@
-// 👋 Hi, I’m @emiliogives,
-
-// .NET C# dev at day 💻☕ 
-// ---Python and #Powershell scripting ninja 🥷🌃 at nights. 
-
 while(me.Here())
 {
   string ask;
@@ -14,12 +9,10 @@ while(me.Here())
     ask.Contains("about Bash")
     )
     {
-      me.Happy2Help(ask); //May not have all the answers but i'll try my best
+      me.Happy2Help(ask);
     }
   else
   {
     me.Learn(ask);
   }   
 } 
-
-// Knowledge is better when shared
