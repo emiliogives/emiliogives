@@ -6,4 +6,4 @@ I believe that cloud computing is the future of software development, and I love
 
 My main areas of focus are middleware solutions and mobile development, and I've been in the game for some years now. When I'm not coding, you can usually find me hiking or tinkering with new gadgets 🤓🖥️
 
-I'm always looking to connect with other developers and share ideas, so don't hesitate to reach out to me on LinkedIn or check out some of my recent projects on my portfolio website.
+I'm always looking to connect with other developers and share ideas, so don't hesitate to reach out to me on <a href="doc:introduction" target="_blank">Introduction</a> or check out some of my recent projects on my portfolio website.
