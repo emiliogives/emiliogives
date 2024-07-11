@@ -6,6 +6,6 @@ In databases, I usually walk the **SQL Server** path, but I'm always willing to 
 
 My path is in cloud computing; I love getting my hands dirty with services like **Azure and AWS**.
 
-My main areas of focus are middleware solutions, mobile and web development, and I've been in this journey for some years now. When I'm not coding, you can usually find me hiking or tinkering with new gadgets 🤓🖥️
+My main area of focus backend on mobile and web development, and I've been in this journey for some years now. When I'm not coding, you can usually find me hiking or tinkering with new gadgets 🤓🖥️
 
 I'm always looking to connect with other developers and share ideas, so don't hesitate to reach out to me on [Linkedin](https://www.linkedin.com/in/emiliogives/) or check out some of my contributions on this profile. 
